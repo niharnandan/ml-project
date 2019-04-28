@@ -1,4 +1,4 @@
-Date,axiuTep,iniuTep,AverageTep,Departure,HDD,CDD,Precipitation,NewSnow,DepartureTep,SnowDepth,Electricity(GWh)/Non-Residential,Electricity(GWh)/Residential,Gas(Thers)/Non-Residential,Gas(Thers)/Residential,edian_Incoe(dollars),Population,Wind,Solar,Sall hydro,Geotheral,Bioass,Large hydro,Coal,Nuclear,Natural gas,Unspecified
+Date,axiuTep,iniuTep,AverageTep,Departure,HDD,CDD,Precipitation,NewSnow,DepartureTemp,SnowDepth,Electricity(GWh)/Non-Residential,Electricity(GWh)/Residential,Gas(Thers)/Non-Residential,Gas(Thers)/Residential,edian_Incoe(dollars),Population,Wind,Solar,Sall hydro,Geotheral,Bioass,Large hydro,Coal,Nuclear,Natural gas,Unspecified
 41640,65,35,50,3.7,15,0,0,0,,,6258.537182,4736.128873,100.810185,172.911259,62203,485199,0.081,0.042,0.009,0.044,0.025,0.055,0.064,0.085,0.445,0.15
 41641,66,37,51.5,5.1,13,0,0,0,,,6258.537182,4736.128873,100.810185,172.911259,62203,485199,0.081,0.042,0.009,0.044,0.025,0.055,0.064,0.085,0.445,0.15
 41642,66,38,52,5.6,13,0,0,0,,,6258.537182,4736.128873,100.810185,172.911259,62203,485199,0.081,0.042,0.009,0.044,0.025,0.055,0.064,0.085,0.445,0.15
